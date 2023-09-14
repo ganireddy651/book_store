@@ -1,0 +1,24 @@
+.book-shelves-container {
+  padding: 20px 100px;
+  background-color: #f5f7fa;
+  min-height: 100vh;
+  display: flex;
+}
+.sidebar-container {
+  background-color: #ffffff;
+  width: 250px;
+  padding: 10px;
+}
+.sidebar-list-container {
+  list-style: none;
+  padding: 0;
+}
+.books-container {
+  width: 100%;
+  margin-left: 50px;
+}
+.heading-input-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

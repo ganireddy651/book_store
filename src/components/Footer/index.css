@@ -1,0 +1,29 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.social-icons {
+  color: #3d3c3c;
+  text-align: center;
+  font-family: 'Font Awesome 5 Brands';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-right: 10px;
+}
+.contact-us {
+  color: #3d3c3c;
+  font-family: 'HK Grotesk';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+}
+.social-button {
+  background-color: transparent;
+  border: 0;
+  outline: none;
+}

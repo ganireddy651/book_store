@@ -1,0 +1,66 @@
+.home-container {
+  padding: 20px 100px;
+  background-color: #f5f7fa;
+  min-height: 100vh;
+}
+.loader-container {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+.home-page-heading {
+  color: #1e293b;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: 'Inter';
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+}
+.home-page-description {
+  color: #475569;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: 'Inter';
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+}
+.sick-container {
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: 0px 1px 2px 0px rgba(96, 97, 112, 0.16),
+    0px 0px 1px 0px rgba(40, 41, 61, 0.08);
+  padding: 10px;
+}
+.sick-container {
+  margin-bottom: 50px;
+}
+.slick-top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.top-rated {
+  color: #1e293b;
+  text-align: center;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: 'Inter';
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px;
+}
+.find-books {
+  height: 36px;
+  width: 104px;
+  background-color: #0284c7;
+  color: #ffffff;
+  border: 0;
+  border-radius: 3px;
+}
+.slick-list-container {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
